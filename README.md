@@ -4,7 +4,7 @@
 
 ![preview](https://user-images.githubusercontent.com/109727844/192861001-60d6fa4c-ff3c-4b76-a9cb-9fe81e662ffc.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/RegisterForm2/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Password-Generation-Online/)
 
 - 👨‍💻 Developed by pouria farahani
 
